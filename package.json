@@ -1,0 +1,23 @@
+{
+  "name": "timed-interaction-manager",
+  "version": "1.0.0",
+  "description": "Timed InterationManager for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbureted/timed-interaction-manager.git"
+  },
+  "keywords": [
+    "react-native",
+    "InteractionManager"
+  ],
+  "author": "Eason Goodale <eason.goodale@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carbureted/timed-interaction-manager/issues"
+  },
+  "homepage": "https://github.com/carbureted/timed-interaction-manager"
+}
